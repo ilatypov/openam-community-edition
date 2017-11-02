@@ -1,4 +1,6 @@
 # OpenAM Community Edition 11.0.3
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Filatypov%2Fopenam-community-edition.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Filatypov%2Fopenam-community-edition?ref=badge_shield)
+
 
 Traditionally delivered as six different products — SSO, adaptive authentication, strong authentication, federation, web services security and fine-grained entitlement enforcement — OpenAM now provides all this in a single, unified cross platform offering deployed as a .war file into a Java Servlet container such as Tomcat.
 
@@ -33,6 +35,9 @@ Code collaboration is done by creating an issue, discussing the changes in the i
 ## Licensing
 
 The Code and binaries are covered under the [CDDL 1.0 license](https://forgerock.org/cddlv1-0/). Essentially you may use the release binaries in production at your own risk. 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Filatypov%2Fopenam-community-edition.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Filatypov%2Fopenam-community-edition?ref=badge_large)
 
 #### Legal Disclaimer Bit
 All components herein are provided AS IS and without a warranty of any kind by ForgeRock or any licensors of such code.  ForgeRock and all licensors of such code disclaims all liability or obligations of such code and any use, distribution or operation of such code shall be exclusively subject to the licenses contained in each file and recipient is obligated to read and understand each such license before using the Software.  Notwithstanding anything to the contrary, ForgeRock has no obligations for the use or support of such code under any ForgeRock license agreement.

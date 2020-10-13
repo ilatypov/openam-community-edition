@@ -130,7 +130,7 @@
         <forgerock-ui.version>1.0.1</forgerock-ui.version>
         <restlet.version>2.1.7</restlet.version>
         <xercesj.version>2.11.0</xercesj.version>
-        <powermock.version>1.5</powermock.version>
+        <powermock.version>1.5.5</powermock.version>
         <jackson.version>2.1.2</jackson.version>
         <click.version>2.3.0</click.version>
         <commons-beanutils.version>1.8.3</commons-beanutils.version>
@@ -1541,7 +1541,7 @@
             <dependency>
                 <groupId>org.testng</groupId>
                 <artifactId>testng</artifactId>
-                <version>6.8.5</version>
+                <version>6.8.8</version>
                 <scope>test</scope>
             </dependency>
             <dependency>

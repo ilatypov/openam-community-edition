@@ -178,7 +178,7 @@
         <jackson-asl.version>1.9.7</jackson-asl.version>
         <javax.security.auth.message.version>3.1</javax.security.auth.message.version>
         <jquery-amd.version>1.7.1-alpha-1</jquery-amd.version>
-        <freemarker.version>2.3.19</freemarker.version>
+        <freemarker.version>2.3.30</freemarker.version>
         <java-ipv6.version>0.14</java-ipv6.version>
         <json.version>20090211</json.version>
 
